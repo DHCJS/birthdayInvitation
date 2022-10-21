@@ -1,10 +1,8 @@
 # Birthday Invitation
 
-The second Scrimba Project I created and deployed on Netlify.
+The Second Scrimba Project I Created & Deployed on Netlify
 
 ## Lessons Learned
-
-Throughout this lesson, I’ve learned about:
 
 - [x]  Align-Items
 - [x]  Flex-Direction
@@ -14,10 +12,9 @@ Throughout this lesson, I’ve learned about:
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
+![birthday](https://user-images.githubusercontent.com/80773310/197153084-20426775-414c-4f3c-a0c8-303a86e14ce5.png)
 
 ## Authors
 
- [Tato](https://github.com/DHCJS)
+<img align="left" alt="coral" width="25" height="25" src="https://emojiguide.com/wp-content/uploads/2022/04/coral-emoji.png">[Tato](https://github.com/DHCJS)
 
