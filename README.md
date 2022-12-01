@@ -1,6 +1,6 @@
 # Birthday Invitation
 
-The Second Scrimba Project I Created & Deployed on Netlify
+The Second Scrimba Project I Created. Learned how to use hover on the display, centering text and picture using flex and align. You can look at the project on [Netlify](https://storied-dodol-0e803a.netlify.app/).
 
 ## Lessons Learned
 
